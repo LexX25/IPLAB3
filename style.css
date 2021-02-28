@@ -23,3 +23,11 @@ h1,h2{
 #head1{
 	text-decoration: underline;;
 }
+a{
+text-decoration:none;
+}
+.firstcharacter {
+  float: left;
+  font-family: Georgia;
+  font-size: 18px;
+}
