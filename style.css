@@ -2,12 +2,13 @@
 	color:orange;
 }
 hr{
-	border:1px solid red;
+	border:5px solid red;
 }
 #body1{
-	background-color:aqua;
-	margin:auto;
-
+background: rgb(200,58,180);
+background: linear-gradient(90deg, rgba(200,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%););
+margin:0 auto;
+max-width: 25em;
 }
 .text{
 	text-align:center;
@@ -15,10 +16,10 @@ hr{
 p{
 	text-align: center;
 }
-
+}
 h1,h2{
 	font-style: italic;
 }
-div{
-margin: 0 auto;
+#head1{
+	text-decoration: underline;;
 }
